@@ -1,0 +1,1 @@
+The main goal of this repository is to optimize Tensorflow models by leveraging the TensorFlow integration of NVIDIA's TensorRT (TF-TRT). With TF-TRT, we can optimize various deep learning models at FP32, FP16, and INT8 precision and analyze the impact of adjusting TF-TRT parameters on performance and inference throughput.
